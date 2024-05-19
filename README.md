@@ -1,8 +1,5 @@
 # Spider-Man
 - A Mini-figure Spiderman game with more villains to fight in HTML5, CSS3 and Javascript
-<p align="center">
-  <img src="/images/standing.png" height="30%" width="30%">
-</p>
 
 ## Special Notes
 ### What is needed to Play `Spider-Man`
