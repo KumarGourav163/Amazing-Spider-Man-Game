@@ -4,9 +4,6 @@
   <img src="/images/standing.png" height="30%" width="30%">
 </p>
 
----
-### 🔗🔗 Link: (https://amazing-spider-man-game.vercel.app)
----
 ## Special Notes
 ### What is needed to Play `Spider-Man`
 - A Laptop, Computer or a Desktop with a keyboard
