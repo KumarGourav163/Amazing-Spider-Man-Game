@@ -16,7 +16,7 @@
 
 |Preview|
 |-|
-|![Spider-Man](https://user-images.githubusercontent.com/91379432/155486365-0e2b515d-d90d-4846-aecf-f41b6e307429.png)|
+|![Spider-Man Live](https://amazing-spider-man-game.vercel.app)|
 
 ## More about the game
 ### Villains in the game
@@ -26,9 +26,6 @@
 - Sandman
 - Dr.Octopus
 - Mysterio
-
-<p align="right">
-  <img src="/images/thug.png" height="50" width="50"><img src="/images/venom-original.png" height="50" width="50"><img src="/images/goblin.png" height="50" width="50"><img src="/images/sandman.png" height="50" width="50"><img src="/images/doctor-octopus.png" height="50" width="50"><img src="/images/mysterio.png" height="50" width="50"></p>
 
 -----------
 ## Running `Spider-Man`
