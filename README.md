@@ -33,12 +33,8 @@
 ## Running `Spider-Man`
 ### Running `online`
 - Go to (https://amazing-spider-man-game.vercel.app)
-### Running `offline`
-- Download `source.code.zip` from [here](https://github.com/KumarGourav163/Amazing-Spider-Man-Game)
-- Extract the folder
-- Run `index.html` file in the browser
-
+  
 --- | --- | --- | --- | --- |
 Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ |
----
+
 > ### If you enjoysed this game, don't forget to give a star🌟 and fork to make your own Spider-Man game
